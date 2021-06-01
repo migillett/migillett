@@ -18,7 +18,7 @@ This is a private repository - as it is built for a specific use-case at my work
 A fork from [szumlins/scripts](https://github.com/szumlins/Scripts), this script allows you to automate the switching of video inputs and outputs on a AJA Kumo 16/16 video router.
 
 ### [PDF Web Scraper](https://github.com/migillett/PDF-Downloader)
-A web-scraping to download all PDFs from a given URL.
+A web-scraping script to download all PDFs from a given URL.
 
 ### [RAW to JPEG](https://github.com/migillett/RAW-to-JPEG)
 Converts Canon, Sony, and Nikon RAW images into JPEGs for archiving and space efficiency
