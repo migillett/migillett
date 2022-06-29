@@ -9,7 +9,7 @@
 ## My Favorite Projects
 
 ### [LiveLT](https://github.com/migillett/LiveLT)
-This Python script allows you to scan QRCodes and transmit them directly to a NewTek Tricaster via their DataLink feature. The script uses PyQt5 for the main GUI and opencv-python for capturing webcam input and QR decoding. Great for live events such as Graduations where making lower thirds for every is impractical.
+This Python script allows you to scan QRCodes and transmit them directly to a NewTek Tricaster via their DataLink feature. The script uses PyQt5 for the main GUI and opencv-python for capturing webcam input and QR decoding. Great for live events such as Graduations where making lower thirds for every person is impractical.
 
 ### Automatic Video Editing Script
 This is a private repository - as it is built for a specific use-case at my work - but it combines FTP pull with the open-source program [FFMPEG](https://ffmpeg.org/) and [MoviePy](https://pypi.org/project/moviepy/) to download, edit, export, and upload content to digital signage. The program uses FFMPEG's blackdetect function to search through the downloaded media file and find the in and out points of black video. The program then cuts that black portion of the video out, drops in a 3-minute PSA break, exports that file, and uploads the finished file to our digital signage server.
