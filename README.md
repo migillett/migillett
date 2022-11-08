@@ -1,9 +1,8 @@
 # Nice to meet you! I'm Michael.
-- 👋 I'm a husband, father, video producer, DIY believer, and coding hobbyist
+- 👋 I'm a husband, father, video producer, DIY believer, and Eagle Scout
 - 👨🏻‍🎓 Masters Degree in Management Information Sysems
 - 🎥 Bachelor's Degree in Mass Communication
 - 🐍 I'm self-taught in Python 3 and specialize in task automation
-- 🌱 I’m currently learning about APIs, database integration, and web scraping
 - 📹 Check out my [Vimeo Profile](https://vimeo.com/migillett)
 
 ## My Favorite Projects
